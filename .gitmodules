@@ -1,0 +1,348 @@
+[submodule "mantisbt-plugins/EmailReporting"]
+	path = mantisbt-plugins/EmailReporting
+	url = https://github.com/mantisbt-plugins/EmailReporting.git
+[submodule "mantisbt-plugins/agileMantis"]
+	path = mantisbt-plugins/agileMantis
+	url = https://github.com/mantisbt-plugins/agileMantis.git
+[submodule "mantisbt-plugins/codev"]
+	path = mantisbt-plugins/codev
+	url = https://github.com/mantisbt-plugins/codev.git
+[submodule "mantisbt-plugins/Taskodrome"]
+	path = mantisbt-plugins/Taskodrome
+	url = https://github.com/mantisbt-plugins/Taskodrome.git
+[submodule "mantisbt-plugins/source-integration"]
+	path = mantisbt-plugins/source-integration
+	url = https://github.com/mantisbt-plugins/source-integration.git
+[submodule "mantisbt-plugins/Snippets"]
+	path = mantisbt-plugins/Snippets
+	url = https://github.com/mantisbt-plugins/Snippets.git
+[submodule "mantisbt-plugins/csv-import"]
+	path = mantisbt-plugins/csv-import
+	url = https://github.com/mantisbt-plugins/csv-import.git
+[submodule "mantisbt-plugins/Announce"]
+	path = mantisbt-plugins/Announce
+	url = https://github.com/mantisbt-plugins/Announce.git
+[submodule "mantisbt-plugins/SampleAuth"]
+	path = mantisbt-plugins/SampleAuth
+	url = https://github.com/mantisbt-plugins/SampleAuth.git
+[submodule "mantisbt-plugins/workload"]
+	path = mantisbt-plugins/workload
+	url = https://github.com/mantisbt-plugins/workload.git
+[submodule "mantisbt-plugins/traceability"]
+	path = mantisbt-plugins/traceability
+	url = https://github.com/mantisbt-plugins/traceability.git
+[submodule "mantisbt-plugins/timetracking"]
+	path = mantisbt-plugins/timetracking
+	url = https://github.com/mantisbt-plugins/timetracking.git
+[submodule "mantisbt-plugins/GoogleOauth"]
+	path = mantisbt-plugins/GoogleOauth
+	url = https://github.com/mantisbt-plugins/GoogleOauth.git
+[submodule "mantisbt-plugins/Slack"]
+	path = mantisbt-plugins/Slack
+	url = https://github.com/mantisbt-plugins/Slack.git
+[submodule "mantisbt-plugins/filter-page-edit"]
+	path = mantisbt-plugins/filter-page-edit
+	url = https://github.com/mantisbt-plugins/filter-page-edit.git
+[submodule "mantisbt-plugins/EasyEnter"]
+	path = mantisbt-plugins/EasyEnter
+	url = https://github.com/mantisbt-plugins/EasyEnter.git
+[submodule "mantisbt-plugins/DatabaseCleanup"]
+	path = mantisbt-plugins/DatabaseCleanup
+	url = https://github.com/mantisbt-plugins/DatabaseCleanup.git
+[submodule "mantisbt-plugins/google-analytics"]
+	path = mantisbt-plugins/google-analytics
+	url = https://github.com/mantisbt-plugins/google-analytics.git
+[submodule "mantisbt-plugins/TriggerClose"]
+	path = mantisbt-plugins/TriggerClose
+	url = https://github.com/mantisbt-plugins/TriggerClose.git
+[submodule "mantisbt-plugins/scrum"]
+	path = mantisbt-plugins/scrum
+	url = https://github.com/mantisbt-plugins/scrum.git
+[submodule "mantisbt-plugins/inline-history"]
+	path = mantisbt-plugins/inline-history
+	url = https://github.com/mantisbt-plugins/inline-history.git
+[submodule "mantisbt-plugins/GaugeSupport"]
+	path = mantisbt-plugins/GaugeSupport
+	url = https://github.com/mantisbt-plugins/GaugeSupport.git
+[submodule "mantisbt-plugins/Reminder"]
+	path = mantisbt-plugins/Reminder
+	url = https://github.com/mantisbt-plugins/Reminder.git
+[submodule "mantisbt-plugins/BBCodePlus"]
+	path = mantisbt-plugins/BBCodePlus
+	url = https://github.com/mantisbt-plugins/BBCodePlus.git
+[submodule "mantisbt-plugins/Inline-column-configuration"]
+	path = mantisbt-plugins/Inline-column-configuration
+	url = https://github.com/mantisbt-plugins/Inline-column-configuration.git
+[submodule "mantisbt-plugins/SimpleSAMLphpAuth"]
+	path = mantisbt-plugins/SimpleSAMLphpAuth
+	url = https://github.com/mantisbt-plugins/SimpleSAMLphpAuth.git
+[submodule "mantisbt-plugins/Motives"]
+	path = mantisbt-plugins/Motives
+	url = https://github.com/mantisbt-plugins/Motives.git
+[submodule "mantisbt-plugins/Activity"]
+	path = mantisbt-plugins/Activity
+	url = https://github.com/mantisbt-plugins/Activity.git
+[submodule "mantisbt-plugins/JqueryChosen"]
+	path = mantisbt-plugins/JqueryChosen
+	url = https://github.com/mantisbt-plugins/JqueryChosen.git
+[submodule "mantisbt-plugins/jsedit"]
+	path = mantisbt-plugins/jsedit
+	url = https://github.com/mantisbt-plugins/jsedit.git
+[submodule "mantisbt-plugins/piwik"]
+	path = mantisbt-plugins/piwik
+	url = https://github.com/mantisbt-plugins/piwik.git
+[submodule "mantisbt-plugins/CustomReporter"]
+	path = mantisbt-plugins/CustomReporter
+	url = https://github.com/mantisbt-plugins/CustomReporter.git
+[submodule "mantisbt-plugins/jQuery-UI"]
+	path = mantisbt-plugins/jQuery-UI
+	url = https://github.com/mantisbt-plugins/jQuery-UI.git
+[submodule "mantisbt-plugins/EventLog"]
+	path = mantisbt-plugins/EventLog
+	url = https://github.com/mantisbt-plugins/EventLog.git
+[submodule "mantisbt-plugins/search"]
+	path = mantisbt-plugins/search
+	url = https://github.com/mantisbt-plugins/search.git
+[submodule "mantisbt-plugins/FilterBugList"]
+	path = mantisbt-plugins/FilterBugList
+	url = https://github.com/mantisbt-plugins/FilterBugList.git
+[submodule "mantisbt-plugins/PastePicture"]
+	path = mantisbt-plugins/PastePicture
+	url = https://github.com/mantisbt-plugins/PastePicture.git
+[submodule "mantisbt-plugins/Lightbox"]
+	path = mantisbt-plugins/Lightbox
+	url = https://github.com/mantisbt-plugins/Lightbox.git
+[submodule "mantisbt-plugins/jabber-notify"]
+	path = mantisbt-plugins/jabber-notify
+	url = https://github.com/mantisbt-plugins/jabber-notify.git
+[submodule "mantisbt-plugins/MantisBT-Colorized"]
+	path = mantisbt-plugins/MantisBT-Colorized
+	url = https://github.com/mantisbt-plugins/MantisBT-Colorized.git
+[submodule "mantisbt-plugins/product-matrix"]
+	path = mantisbt-plugins/product-matrix
+	url = https://github.com/mantisbt-plugins/product-matrix.git
+[submodule "mantisbt-plugins/MantisKanban"]
+	path = mantisbt-plugins/MantisKanban
+	url = https://github.com/mantisbt-plugins/MantisKanban.git
+[submodule "mantisbt-plugins/highlightcode"]
+	path = mantisbt-plugins/highlightcode
+	url = https://github.com/mantisbt-plugins/highlightcode.git
+[submodule "mantisbt-plugins/bbcode"]
+	path = mantisbt-plugins/bbcode
+	url = https://github.com/mantisbt-plugins/bbcode.git
+[submodule "mantisbt-plugins/mantweet"]
+	path = mantisbt-plugins/mantweet
+	url = https://github.com/mantisbt-plugins/mantweet.git
+[submodule "mantisbt-plugins/faq"]
+	path = mantisbt-plugins/faq
+	url = https://github.com/mantisbt-plugins/faq.git
+[submodule "mantisbt-plugins/ThePoser"]
+	path = mantisbt-plugins/ThePoser
+	url = https://github.com/mantisbt-plugins/ThePoser.git
+[submodule "mantisbt-plugins/timecard"]
+	path = mantisbt-plugins/timecard
+	url = https://github.com/mantisbt-plugins/timecard.git
+[submodule "mantisbt-plugins/jquery"]
+	path = mantisbt-plugins/jquery
+	url = https://github.com/mantisbt-plugins/jquery.git
+[submodule "mantisbt-plugins/GanttChart"]
+	path = mantisbt-plugins/GanttChart
+	url = https://github.com/mantisbt-plugins/GanttChart.git
+[submodule "mantisbt-plugins/linked-custom-fields"]
+	path = mantisbt-plugins/linked-custom-fields
+	url = https://github.com/mantisbt-plugins/linked-custom-fields.git
+[submodule "mantisbt-plugins/CustomizeEmailSubject"]
+	path = mantisbt-plugins/CustomizeEmailSubject
+	url = https://github.com/mantisbt-plugins/CustomizeEmailSubject.git
+[submodule "mantisbt-plugins/irc"]
+	path = mantisbt-plugins/irc
+	url = https://github.com/mantisbt-plugins/irc.git
+[submodule "mantisbt-plugins/releasemgt"]
+	path = mantisbt-plugins/releasemgt
+	url = https://github.com/mantisbt-plugins/releasemgt.git
+[submodule "mantisbt-plugins/HipChat"]
+	path = mantisbt-plugins/HipChat
+	url = https://github.com/mantisbt-plugins/HipChat.git
+[submodule "mantisbt-plugins/MantisTouchRedirect"]
+	path = mantisbt-plugins/MantisTouchRedirect
+	url = https://github.com/mantisbt-plugins/MantisTouchRedirect.git
+[submodule "mantisbt-plugins/Mantisbt-Combobox"]
+	path = mantisbt-plugins/Mantisbt-Combobox
+	url = https://github.com/mantisbt-plugins/Mantisbt-Combobox.git
+[submodule "mantisbt-plugins/iCalExport"]
+	path = mantisbt-plugins/iCalExport
+	url = https://github.com/mantisbt-plugins/iCalExport.git
+[submodule "mantisbt-plugins/ServiceLevel"]
+	path = mantisbt-plugins/ServiceLevel
+	url = https://github.com/mantisbt-plugins/ServiceLevel.git
+[submodule "mantisbt-plugins/TableField"]
+	path = mantisbt-plugins/TableField
+	url = https://github.com/mantisbt-plugins/TableField.git
+[submodule "mantisbt-plugins/Terminology"]
+	path = mantisbt-plugins/Terminology
+	url = https://github.com/mantisbt-plugins/Terminology.git
+[submodule "mantisbt-plugins/LDAPAutocomplete"]
+	path = mantisbt-plugins/LDAPAutocomplete
+	url = https://github.com/mantisbt-plugins/LDAPAutocomplete.git
+[submodule "mantisbt-plugins/Markdown"]
+	path = mantisbt-plugins/Markdown
+	url = https://github.com/mantisbt-plugins/Markdown.git
+[submodule "mantisbt-plugins/IssueViewers"]
+	path = mantisbt-plugins/IssueViewers
+	url = https://github.com/mantisbt-plugins/IssueViewers.git
+[submodule "mantisbt-plugins/JNestor"]
+	path = mantisbt-plugins/JNestor
+	url = https://github.com/mantisbt-plugins/JNestor.git
+[submodule "mantisbt-plugins/MingleIntegration"]
+	path = mantisbt-plugins/MingleIntegration
+	url = https://github.com/mantisbt-plugins/MingleIntegration.git
+[submodule "mantisbt-plugins/JiraImport"]
+	path = mantisbt-plugins/JiraImport
+	url = https://github.com/mantisbt-plugins/JiraImport.git
+[submodule "mantisbt-plugins/customer-management"]
+	path = mantisbt-plugins/customer-management
+	url = https://github.com/mantisbt-plugins/customer-management.git
+[submodule "mantisbt-plugins/AdminSetPassword"]
+	path = mantisbt-plugins/AdminSetPassword
+	url = https://github.com/mantisbt-plugins/AdminSetPassword.git
+[submodule "mantisbt-plugins/PersonalizacionBotonesNotas"]
+	path = mantisbt-plugins/PersonalizacionBotonesNotas
+	url = https://github.com/mantisbt-plugins/PersonalizacionBotonesNotas.git
+[submodule "mantisbt-plugins/Zip-Export"]
+	path = mantisbt-plugins/Zip-Export
+	url = https://github.com/mantisbt-plugins/Zip-Export.git
+[submodule "mantisbt-plugins/related-issues-export"]
+	path = mantisbt-plugins/related-issues-export
+	url = https://github.com/mantisbt-plugins/related-issues-export.git
+[submodule "mantisbt-plugins/Freemind"]
+	path = mantisbt-plugins/Freemind
+	url = https://github.com/mantisbt-plugins/Freemind.git
+[submodule "mantisbt/mantisbt"]
+	path = mantisbt/mantisbt
+	url = https://github.com/mantisbt/mantisbt.git
+[submodule "mantisbt/mantisbt-web"]
+	path = mantisbt/mantisbt-web
+	url = https://github.com/mantisbt/mantisbt-web.git
+[submodule "mantisbt/mantisbt-tools"]
+	path = mantisbt/mantisbt-tools
+	url = https://github.com/mantisbt/mantisbt-tools.git
+[submodule "mantisbt/swagger-ui"]
+	path = mantisbt/swagger-ui
+	url = https://github.com/mantisbt/swagger-ui.git
+[submodule "mantisbt/test-protection"]
+	path = mantisbt/test-protection
+	url = https://github.com/mantisbt/test-protection.git
+[submodule "mantisbt/PHPMailer"]
+	path = mantisbt/PHPMailer
+	url = https://github.com/mantisbt/PHPMailer.git
+[submodule "mantisbt/securimage"]
+	path = mantisbt/securimage
+	url = https://github.com/mantisbt/securimage.git
+[submodule "mantisbt/parsedown"]
+	path = mantisbt/parsedown
+	url = https://github.com/mantisbt/parsedown.git
+[submodule "mantisbt/ADOdb"]
+	path = mantisbt/ADOdb
+	url = https://github.com/mantisbt/ADOdb.git
+[submodule "mantisbt/disposable_email_checker"]
+	path = mantisbt/disposable_email_checker
+	url = https://github.com/mantisbt/disposable_email_checker.git
+[submodule "mantisbt/ZetaGraph"]
+	path = mantisbt/ZetaGraph
+	url = https://github.com/mantisbt/ZetaGraph.git
+[submodule "mantisbt/ZetaBase"]
+	path = mantisbt/ZetaBase
+	url = https://github.com/mantisbt/ZetaBase.git
+[submodule "mantisbt/supybot-mantis"]
+	path = mantisbt/supybot-mantis
+	url = https://github.com/mantisbt/supybot-mantis.git
+[submodule "mantisbt/LimeSurvey"]
+	path = mantisbt/LimeSurvey
+	url = https://github.com/mantisbt/LimeSurvey.git
+[submodule "grostarin/RelationshipEasyManagement"]
+	path = grostarin/RelationshipEasyManagement
+	url = https://github.com/grostarin/RelationshipEasyManagement.git
+[submodule "langerheiko/CustomizeEmailSubject_for_MantisBT"]
+	path = langerheiko/CustomizeEmailSubject_for_MantisBT
+	url = https://github.com/langerheiko/CustomizeEmailSubject_for_MantisBT.git
+[submodule "langerheiko/ManageUsergroups"]
+	path = langerheiko/ManageUsergroups
+	url = https://github.com/langerheiko/ManageUsergroups.git
+[submodule "langerheiko/AdminsToolbox"]
+	path = langerheiko/AdminsToolbox
+	url = https://github.com/langerheiko/AdminsToolbox.git
+[submodule "langerheiko/send-weekly-report-for-mantis"]
+	path = langerheiko/send-weekly-report-for-mantis
+	url = https://github.com/langerheiko/send-weekly-report-for-mantis.git
+[submodule "langerheiko/mantisbt_changed_filter"]
+	path = langerheiko/mantisbt_changed_filter
+	url = https://github.com/langerheiko/mantisbt_changed_filter.git
+[submodule "langerheiko/AdminSetPassword_for_MantisBT"]
+	path = langerheiko/AdminSetPassword_for_MantisBT
+	url = https://github.com/langerheiko/AdminSetPassword_for_MantisBT.git
+[submodule "lbayle/codev"]
+	path = lbayle/codev
+	url = https://github.com/lbayle/codev.git
+[submodule "TomR/Csv-import-4-MantisBT"]
+	path = TomR/Csv-import-4-MantisBT
+	url = https://github.com/TomR/Csv-import-4-MantisBT.git
+[submodule "infojunkie/MantisBT-Slack"]
+	path = infojunkie/MantisBT-Slack
+	url = https://github.com/infojunkie/MantisBT-Slack.git
+[submodule "infojunkie/MantisBT-Weeks"]
+	path = infojunkie/MantisBT-Weeks
+	url = https://github.com/infojunkie/MantisBT-Weeks.git
+[submodule "infojunkie/MantisBT-Lightbox"]
+	path = infojunkie/MantisBT-Lightbox
+	url = https://github.com/infojunkie/MantisBT-Lightbox.git
+[submodule "chelmertz/mantis-triggerclose"]
+	path = chelmertz/mantis-triggerclose
+	url = https://github.com/chelmertz/mantis-triggerclose.git
+[submodule "bueltge/MantisBT-Colorized"]
+	path = bueltge/MantisBT-Colorized
+	url = https://github.com/bueltge/MantisBT-Colorized.git
+[submodule "fatmanx/MantisBT-PastePicture"]
+	path = fatmanx/MantisBT-PastePicture
+	url = https://github.com/fatmanx/MantisBT-PastePicture.git
+[submodule "AgaveStorm/ThePoser"]
+	path = AgaveStorm/ThePoser
+	url = https://github.com/AgaveStorm/ThePoser.git
+[submodule "ramsey/MantisBT-HipChat"]
+	path = ramsey/MantisBT-HipChat
+	url = https://github.com/ramsey/MantisBT-HipChat.git
+[submodule "iCalcreator/iCalExport"]
+	path = iCalcreator/iCalExport
+	url = https://github.com/iCalcreator/iCalExport.git
+[submodule "bueltge/Markdown-for-MantisBT"]
+	path = bueltge/Markdown-for-MantisBT
+	url = https://github.com/bueltge/Markdown-for-MantisBT.git
+[submodule "Dentxinho/IssueViewers"]
+	path = Dentxinho/IssueViewers
+	url = https://github.com/Dentxinho/IssueViewers.git
+[submodule "zba/JiraImport"]
+	path = zba/JiraImport
+	url = https://github.com/zba/JiraImport.git
+[submodule "mantishub/MantisPhpClient"]
+	path = mantishub/MantisPhpClient
+	url = https://github.com/mantishub/MantisPhpClient.git
+[submodule "mantishub/MantisDotNetClient"]
+	path = mantishub/MantisDotNetClient
+	url = https://github.com/mantishub/MantisDotNetClient.git
+[submodule "mantishub/mantis-powershell"]
+	path = mantishub/mantis-powershell
+	url = https://github.com/mantishub/mantis-powershell.git
+[submodule "mantishub/MantisTouchRedirect"]
+	path = mantishub/MantisTouchRedirect
+	url = https://github.com/Mantishub/MantisTouchRedirect.git
+[submodule "mantishub/MantisSeeder"]
+	path = mantishub/MantisSeeder
+	url = https://github.com/mantishub/MantisSeeder.git
+[submodule "mantishub/mantishub-docs"]
+	path = mantishub/mantishub-docs
+	url = https://github.com/mantishub/mantishub-docs.git
+[submodule "vincentsels/ProjectManagement"]
+	path = vincentsels/ProjectManagement
+	url = https://github.com/vincentsels/ProjectManagement.git
+[submodule "swagger-api/swagger-ui"]
+	path = swagger-api/swagger-ui
+	url = https://github.com/swagger-api/swagger-ui.git
